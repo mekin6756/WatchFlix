@@ -30,7 +30,6 @@ Details: Click on any trailer to view more details and watch the YouTube trailer
 Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Contact
-Your Name - mekinsutariya34@gmail.com
+Contact: mekinsutariya34@gmail.com
 
 Project Link: [https://github.com/mekin6756/WatchFlix/]
